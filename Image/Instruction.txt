@@ -1,0 +1,11 @@
+1.Power up
+2.Connect to usb to pc
+3.Open App and Connect to device and put ssid and pass wifi.
+4.turn off
+5.open and wait 30s
+6.enjoy it.
+
+
+if
+	device is red press reset.
+
